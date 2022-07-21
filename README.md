@@ -7,7 +7,7 @@ This repository contains the Trust Payments WooCommerce Subscriptions addon that
 
 ## Requirements
 
-* [Wordpress](https://wordpress.org/) 4.4 or later
+* [Wordpress](https://wordpress.org/) 4.4 or later.
 * [Woocommerce](https://woocommerce.com/) 3.0 or later
 * [Trust Payments Woocommerce Plugin](../../../woocommerce/) 1.2 or later
 * [Woocommerce Subscriptions Plugin](https://woocommerce.com/products/woocommerce-subscriptions/) 2.2 or later
@@ -15,5 +15,5 @@ This repository contains the Trust Payments WooCommerce Subscriptions addon that
 
 ## License
 
-Please see the [license file](https://github.com/TrustPayments/woocommerce-subscription/blob/1.0.11/LICENSE) for more information.
+Please see the [license file](https://github.com/TrustPayments/woocommerce-subscription/blob/1.0.12/LICENSE) for more information.
 

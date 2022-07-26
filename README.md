@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/TrustPayments/woocommerce-subscription.svg?branch=master)](https://travis-ci.org/TrustPayments/woocommerce-subscription)
 
-# Wallee Woocommerce Subscriptions
+# Trust Payments Woocommerce Subscriptions
 This repository contains the Trust Payments WooCommerce Subscriptions addon that enables WooCommerce Subscriptions to be processed with [Trust Payments](https://www.trustpayments.com/).
 
 ##### To use this extension, a [Trust Payments](https://ep.trustpayments.com/user/signup) account is required.
@@ -15,5 +15,5 @@ This repository contains the Trust Payments WooCommerce Subscriptions addon that
 
 ## License
 
-Please see the [license file](https://github.com/TrustPayments/woocommerce-subscription/blob/1.0.12/LICENSE) for more information.
+Please see the [license file](https://github.com/TrustPayments/woocommerce-subscription/blob/1.0.13/LICENSE) for more information.
 

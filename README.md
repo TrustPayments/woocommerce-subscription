@@ -15,5 +15,5 @@ This repository contains the Trust Payments WooCommerce Subscriptions addon that
 
 ## License
 
-Please see the [license file](https://github.com/TrustPayments/woocommerce-subscription/blob/1.0.13/LICENSE) for more information.
+Please see the [license file](https://github.com/TrustPayments/woocommerce-subscription/blob/1.0.14/LICENSE) for more information.
 

@@ -1,7 +1,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: WooCommerce Trust Payments Subscription\n"
+"Project-Id-Version: Trust Payments Subscription\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-28 10:15+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -19,13 +19,13 @@ msgstr "Änderung der Zahlungsmethode"
 
 #: includes/class-wc-trustpayments-subscription-migration.php:83
 #, php-format
-msgid "Woocommerce Trust Payments %s+ has to be active."
-msgstr "Woocommerce Trust Payments %s+ muss aktiv sein."
+msgid "Trust Payments %s+ has to be active."
+msgstr "Trust Payments %s+ muss aktiv sein."
 
 #: includes/class-wc-trustpayments-subscription-migration.php:89
 #, php-format
-msgid "Woocommerce Trust Payments %s+ is required. (You're running version %s)"
-msgstr "Woocommerce Trust Payments %s+ ist erforderlich. (Sie verwenden die Version %s)"
+msgid "Trust Payments %s+ is required. (You're running version %s)"
+msgstr "Trust Payments %s+ ist erforderlich. (Sie verwenden die Version %s)"
 
 #: includes/class-wc-trustpayments-subscription-migration.php:94
 #, php-format
@@ -38,8 +38,8 @@ msgid "Woocommerce Subscriptions %s+ is required. (You're running version %s)"
 msgstr "Woocommerce Subscriptions %s+ ist erforderlich. (Sie verwenden die Version %s)"
 
 #: includes/class-wc-trustpayments-subscription-migration.php:105
-msgid "Could not activate plugin WooCommerce Trust Payments Subscription"
-msgstr "Das Plugin WooCommerce Trust Payments Subscription konnte nicht aktiviert werden"
+msgid "Could not activate plugin Trust Payments Subscription"
+msgstr "Das Plugin Trust Payments Subscription konnte nicht aktiviert werden"
 
 #: includes/class-wc-trustpayments-subscription-migration.php:107
 msgid "Please check the following requirements before activating:"
@@ -69,22 +69,22 @@ msgstr "Der Wert Trust Payments Token Id ist erforderlich."
 
 #: views/admin-notices/migration-failed.php:15
 msgid ""
-"There was an issue executing the migration for WooCommerce Trust Payments "
+"There was an issue executing the migration for Trust Payments "
 "Subscription."
-msgstr "Es gab ein Problem bei der Ausführung der Migration für WooCommerce Trust Payments Subscription."
+msgstr "Es gab ein Problem bei der Ausführung der Migration für Trust Payments Subscription."
 
 #: views/admin-notices/plugin-deactivated.php:14
 msgid ""
-"WooCommerce Trust Payments Subscription deactivated because one of its dependencies "
+"Trust Payments Subscription deactivated because one of its dependencies "
 "is no longer active."
-msgstr "WooCommerce Trust Payments Subscription deaktiviert, da eine der Abhängigkeiten nicht mehr aktiv ist."
+msgstr "Trust Payments Subscription deaktiviert, da eine der Abhängigkeiten nicht mehr aktiv ist."
 
 #. Name of the plugin
-msgid "WooCommerce Trust Payments Subscription"
-msgstr "WooCommerce Trust Payments Subscription"
+msgid "Trust Payments Subscription"
+msgstr "Trust Payments Subscription"
 
 #. Description of the plugin
-msgid "Addon to processs WooCommerce Subscriptions with Trust Payments"
+msgid "Addon to process WooCommerce Subscriptions with Trust Payments"
 msgstr "Addon zur Verarbeitung von WooCommerce Subscriptions mit Trust Payments"
 
 #. URI of the plugin

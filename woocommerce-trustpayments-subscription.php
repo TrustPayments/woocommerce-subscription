@@ -3,7 +3,7 @@
  * Plugin Name: Trust Payments Subscription
  * Plugin URI: https://wordpress.org/plugins/woo-trustpayments-subscription
  * Description: Addon to process WooCommerce Subscriptions with Trust Payments
- * Version: 1.1.1
+ * Version: 1.1.2
  * License: Apache2
  * License URI: http://www.apache.org/licenses/LICENSE-2.0
  * Author: wallee AG
@@ -36,7 +36,7 @@ if ( ! class_exists( 'WooCommerce_TrustPayments_Subscription' ) ) {
 		 *
 		 * @var string
 		 */
-		private $version = '1.1.1';
+		private $version = '1.1.2';
 
 		/**
 		 * The single instance of the class.
